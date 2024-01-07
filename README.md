@@ -1,0 +1,1 @@
+googlecolab上进行prompt hard finetune 报错 Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument index in method wrapper_CUDA__index_select)未找到解决办法
